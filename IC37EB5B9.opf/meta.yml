@@ -1,0 +1,27 @@
+id: IC37EB5B9
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T04:57:05.451998'
+last_modified: '2022-05-31T04:57:05.452013'
+parser: null
+source_metadata:
+  title: Khenpo Yönten Gönpo Series
+  language: en
+  description: Khenpo Yönten Gönpo (yon tan mgon po), or Jigme Tamdrin Yönten Gönpo
+    ('jigs med rta mgrin yon tan mgon po, 1899–1959) was an important khenpo of Dzogchen
+    Monastery and one of the main disciples of Khenpo Shenga.
+  volume:
+    f8415:
+      title: 'The Lion''s Roar of Definitive Meaning: A Difficult Point Concerning
+        Samaya'
+      base_file: f8415.txt
+      order: 1
+      parent: Advice
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
